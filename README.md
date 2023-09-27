@@ -13,3 +13,6 @@ fatal: Authentication failed for 'https://github.com/entynetproject/ghost.git/'
 
 
 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
+
+
+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
